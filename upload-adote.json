@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "upload-adotepatinhas",
+    "private_key_id": "95084dea5b95fb9202ffb462b6fbb59027a18f4b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2jjv90NhoLVR3\nNm/tMbZLvOXfuw+CQGCSu3N2tJOUkTH6oAzXfLhBI4RaaItKmjscuW4/YSPnaWdo\ngwTf4OVJUADOGcE0aSST+3EAKc+P4D0eW8LA8NHzB2yPP3DUtHUqF8df6JYoG0Dv\nJG+jfTfLmGQCaY/ju/qcBmgjsY8igZ9uXBTJV25dmcz0swBnXSJ4XXQif1ysEANR\nusFh9rwv5CJZq2i8nUiKzlOjv2OllmsCg6/dHKg3pWYX3FZt65VQnEvZsUOHXYzn\nOaDb6goAJbHbGUa/1dilL72NuAP8rLJiZrmsLMI3lcjB2SSWUhRoPYV4zSoVLZ79\nV6IfvWrVAgMBAAECggEAKCXdwbNFdJvLgLBDK0oMilmPwIV2IrIfywVYnlmWP00z\nTagXSujN6N1zxSJKx+xlZarOOTgW2lTO/igaUVY3dskWdD0rxWf+OGFK97s6P60U\nI/IQQbh0o9sVH+fW26CYR9qU6V3QcB+WR0GfH7hxJeBs1i77Cx2TPu8VxgvNq8uv\n6qb+ZthqWYTfs1LavdcVyimju8WIBGJv6XJ4txuZPzPh86VMXn2gWrcDJ7PDYY+5\nyTYN7aunLTuHlM+PNQcQqOVIMJOGY1YqeKZR4/H2znkhDPFNMerX5bjd6Zkb3onm\n67XnMifantFKrhzHlIfF1UMiWYoUyui10MptFO56fQKBgQD7CLZeDLh0Lqo2XRfN\nUp7vaZxmJu2hRBa991I+w2vhkFduhrEYfFSGOqS+Ie/Kgf5L9ikWMRncbM8PTQz7\nLTKSMxrdLHUGwjMNwcsgNRObPGDiVfhZfauqYdurrjf+057WABFfaU6ILfjcjx9d\nhdDGKHI9LpFoC6KvWe7N4eTOLwKBgQC6Kruzr0R1wMF+HO8NM14Gs8DKP/cMfXCJ\nJtta0p0/tXcegnEM64sDWb9M0DZ0eRjsW3w9ESvmQmWSslBlK9R+wWTsV/LPm+VI\nVjWH8nOzFh0GHky1AM0GDuHVMNAeCHck8p18FBm7hsgTKQUFlI6xChVI4cTa3k08\nl084Cdj6OwKBgCslVDLV/N37J0YwueaQTMDZZggoqK8PBNmhqIEhFWmvZVeZztZm\niCCJ88a6Dny/2vUzWdx2k/tOuEfo9lI1cnuuTO+2tGZ0+lFi/YaLmNMVjZFZNVYs\nQ1UFfLwFNZqWxLYDTPkZIGZHgH5oGvv4A+oLCZd6aYN4fH2m92RrbugBAoGBAIip\nwiz/5vPCUsivmNVJ9iZZYpeWKVej5i7otXKQ1hrkrdNZ0n+3kc8d3Q8YckFCfIdW\nCXgS2PUpnML534bFjDKY6euODJNXUBOwJY/s7f5zp07Mg2cEdX2TAzmrobvKXxxi\ndjWV0+YT5WAbZrJYAf/49PMRuZ8qPezS7ramk//tAoGATpoGl/dch3mwwG63zYrk\nG3g0Anp1st+RnnmFbkOB08bf1lYCeuyru8rnIk1AH9sLX2Pk2HcF/tOgoJnNy0VD\nydln4G9ibGnNeeCfFtXu+Cetet53aAmdCFTgGK0NvjMlq7hyghjPK+qPrXG15/j+\n/i92EY+DRLOdbkyc4/KrYfY=\n-----END PRIVATE KEY-----\n",
+    "client_email": "adote-patinhas@upload-adotepatinhas.iam.gserviceaccount.com",
+    "client_id": "112301631173234360104",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adote-patinhas%40upload-adotepatinhas.iam.gserviceaccount.com"
+  }
